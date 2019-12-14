@@ -1,0 +1,2 @@
+# LibrarySeatsManagerUsingBeacon_Server
+LibrarySeatsManagerBeacon
