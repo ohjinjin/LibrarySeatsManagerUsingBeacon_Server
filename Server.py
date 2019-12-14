@@ -42,7 +42,7 @@ class ClientThread(threading.Thread):
 threads = []
 
 # for Slack
-token='xoxb-860999422402-863567959313-XcLrM89nJI3dZqUgyq1FEDOu'
+token='xoxb-xxxx-xxxx'
 slack= Slacker(token)
 
 # 접속할 서버 주소입니다. 여기에서는 루프백(loopback) 인터페이스 주소 즉 localhost를 사용합니다. 
